@@ -1,0 +1,31 @@
+#haut
+{
+    margin-top: -50px;
+    background-color: yellow;
+    margin-left: 70px;
+    margin-right: 60px;
+    height: 90px;
+}
+#bas
+{
+    background-color: blue;
+    margin-left: 70px;
+    height: 50px;
+}
+#milieu
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: red;
+    height: 400px;
+}
+#image
+{
+    margin-left: 200px;
+}
+#para,p
+{
+    padding-top: 40px;
+}
+
+
